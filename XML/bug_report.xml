@@ -1,0 +1,15 @@
+<BR>
+    <ID>2</ID>
+    <Date>24.05.2024</Date>
+    <Severity>Critical</Severity>
+    <Priority>High</Priority>
+    <Environment>WIndows 10, Chrome 124</Environment>
+    <Title>К иконке 'Телеграм' привязана ссылка на страницу во 'ВКонтакте'в футере и хедере</Title>
+    <Steps>
+        <Step1>Зайти на сайт (URL)</Step1>
+        <Step2>Кликнуть на иконку 'Телеграм' в хедере или футера</Step2>
+        <Step3>Обратить внимание на URL открывшейся страницы</Step3>
+    </Steps>
+    <Expected-result>При клике на иконку 'Телеграм' открывается страница компании в 'Телеграм'</Expected-result>
+    <Actual-result>При клике на иконку 'Телеграм' открывается страница компании во 'Вконтакте'</Actual-result>
+</BR>

@@ -1,0 +1,14 @@
+<skills>
+    <skill1>
+        <name>theory</name>
+    </skill1>
+    <skill2>
+        <name>terminal</name>
+    </skill2>
+    <skill3>
+        <name>git</name>
+    </skill3>
+     <skill4>
+        <name>sql</name>
+    </skill4>
+</skills>
