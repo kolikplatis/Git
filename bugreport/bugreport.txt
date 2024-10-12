@@ -1,0 +1,9 @@
+1.ID
+2.Date
+3.Severity   
+4.Priority
+5.Environment   
+6.Title
+7.Steps
+8.Expected-result
+9.Actual-result
